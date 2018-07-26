@@ -98,7 +98,7 @@
 
   - 生成动态代理对象的流程
 
-    ![](/Users/helenlee/Documents/starUML/JDK%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E5%AF%B9%E8%B1%A1%E7%94%9F%E6%88%90%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+    ![]()
 
     上图是动态代理生成的时序图，下面会对关键步骤进行分析：
 

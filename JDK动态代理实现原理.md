@@ -617,9 +617,9 @@
       
       ```
 
-      代理对象执行代理方法时序图：
+      代理对象执行代理方法时序图：  
 
-      ![](https://github.com/HelenLee-lhl/javase/blob/master/img/代理类执行代理方法时序图.png)
+      ![](https://github.com/HelenLee-lhl/javase/blob/master/img/代理类执行代理方法时序图.png)  
 
       JDK动态代理类图模型
 

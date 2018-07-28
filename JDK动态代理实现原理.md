@@ -98,7 +98,7 @@
 
   - 生成动态代理对象的流程
 
-    ![]()
+    ![](https://github.com/HelenLee-lhl/javase/blob/master/img/JDK动态代理对象生成时序图.png)
 
     上图是动态代理生成的时序图，下面会对关键步骤进行分析：
 
@@ -617,13 +617,13 @@
       
       ```
 
-      代理对象执行代理方法时序图：
+      代理对象执行代理方法时序图：  
 
-      ![](/Users/helenlee/Documents/starUML/%E4%BB%A3%E7%90%86%E7%B1%BB%E6%89%A7%E8%A1%8C%E4%BB%A3%E7%90%86%E6%96%B9%E6%B3%95%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+      ![](https://github.com/HelenLee-lhl/javase/blob/master/img/代理类执行代理方法时序图.png)  
 
       JDK动态代理类图模型
 
-      ![](/Users/helenlee/Documents/starUML/JDK%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E7%B1%BB%E5%9B%BE.png)
+      ![](https://github.com/HelenLee-lhl/javase/blob/master/img/JDK动态代理类图.png)
 
     - InvocationHandler.invoke第一个参数(Object proxy)的作用是什么
 
